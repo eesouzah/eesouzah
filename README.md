@@ -9,7 +9,7 @@
   👋 Olá! Eu sou Eduardo.
   
 - 🌱 Estudante de Engenharia de Software e Full Stack
-- 💻 Aprendendo HTML, CSS, JavaScript e TypeScript
+- 💻 Aprendendo HTML, CSS, JavaScript e TypeScript (Por enquanto)
 - 🎯 Meu objetivo: criar interfaces, funcionais e acessíveis
 - 📚 Praticando todos os dias e cometendo muitos erros 
 - 🤝 Aberto(a) a dicas, feedbacks e projetos para treinar  
